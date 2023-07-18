@@ -1,7 +1,7 @@
 
 # Проект Mesto: на Реакте с авторизацией и регистрацией
 
-[![Статус тестов] (../../actions/workflows/tests.yml/badge.svg)] (../../actions/workflows/tests.yml)
+[![Статус тестов](../../actions/workflows/tests.yml/badge.svg)](../../actions/workflows/tests.yml)
 
 # react-mesto-api-full
 
