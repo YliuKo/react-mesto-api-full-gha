@@ -1,0 +1,16 @@
+.profile__icon {
+  max-width: 120px;
+  height: 120px;
+  margin: 0;
+  margin-right: 30px;
+  padding: 0;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 645px) {
+  .profile__icon {
+    margin-right: 0;
+    margin-bottom: 25px;
+  }
+}

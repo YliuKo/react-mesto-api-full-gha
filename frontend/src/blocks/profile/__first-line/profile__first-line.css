@@ -1,0 +1,14 @@
+.profile__first-line {
+    margin: 0;
+    max-width: 336px;
+    display: flex;
+    align-items: stretch;
+    padding-bottom: 8px;
+   }
+
+@media screen  and (max-width: 645px) {
+    .profile__first-line {
+        margin: 13px 0 7px;
+        padding-bottom: 0;
+        }
+    }

@@ -1,0 +1,10 @@
+.element__heart_active {
+  background: url("../../../../images/icon/heart__vector-black.svg");
+  width: 22px;
+  height: 19px;
+  border: none;
+  outline: none;
+  background-color: #ffffff;
+  padding: 0;
+  margin: 5px 5px 1px 0;
+}

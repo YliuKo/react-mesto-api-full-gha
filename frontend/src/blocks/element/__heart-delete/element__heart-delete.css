@@ -1,0 +1,17 @@
+.element__heart-delete {
+    background: url(../../../images/icon/dump__vector.svg);
+    margin: 20px 20px 0 0;
+    padding: 0;
+    width: 18px;
+    border: none;
+    height: 19px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: transparent;
+  }
+  
+  .element__heart-delete:hover {
+    opacity: 0.5;
+    cursor: pointer;
+  }
