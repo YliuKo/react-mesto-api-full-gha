@@ -64,7 +64,7 @@ function App() {
       .catch((error) => {
         console.log(error);
       });
-  }, []);
+  }, [isLogged, email]);
 
   function handleCardClick(data) {
     setSelectedCard(data);

@@ -1,7 +1,7 @@
 
 # Проект Mesto: на Реакте с авторизацией и регистрацией
 
-[![Статус тестов] (../../actions/workflows/tests.yml/badge.svg)] (../../actions/workflows/tests.yml)
+[![Статус тестов](../../actions/workflows/tests.yml/badge.svg)](../../actions/workflows/tests.yml)
 
 # react-mesto-api-full
 
@@ -11,7 +11,8 @@
 
 ## Ссылки на проект
 
-IP-адрес  51.250.15.92
+IP  51.250.15.92
+
 Frontend  <https://yliuko.nomoredomains.xyz/>
 
 Backend  <https://api.yliuko.nomoredomains.xyz/>
